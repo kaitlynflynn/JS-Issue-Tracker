@@ -25,11 +25,11 @@ function saveIssue(e) {
       localStorage.setItem('issues', JSON.stringify(issues));
     }
     
-    document.getElementById('issueInputForm').reset();
+    document.getElementById('issueInputForm').reset(); //reset() method will empty the form
    
-    fetchIssues();
+    fetchIssues(); //calling 'fetchIssues()' again to make sure the list output is re-generated and that new issue item will be visible.
     
-    e.preventDefault(); 
+    e.preventDefault(); //executing this will avoid the default submission of the form taking place
   }
 
 function fetchIssues () {
