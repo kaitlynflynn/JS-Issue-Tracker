@@ -3,6 +3,8 @@ This is a simple issue tracker application with user interface split up into two
 
 In addition you can see that the issue is identified by a unique issue ID. This is a GUID, generated when the issue is created and stored in the Local Storage as well. Each issue then has a status assigned and by default, the status is in the "Open" status stage. Once an issue is resolved the user can set the status to "Closed" by clicking the "Close" button. Issues can also be deleted from the list and Local Storage by clicking the "Delete" button.
 
+![Screenshot](2018-12-05-17-02-13.png)
+
 ## Deployment
 https://js-issue-tracker.netlify.com/ 
 
