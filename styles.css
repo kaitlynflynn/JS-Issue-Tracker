@@ -5,3 +5,8 @@
 .subheader {
     color: #337ab7;
 }
+
+.app {
+    background-image: url("http://www.radiopraca.ba/wp-content/uploads/2018/03/blue-moving-flowing-abstract-waves-on-white-background-blurred-smooth-graphic-motion-design-video-animation-1920x1080_vhhueydte__F0000.png");
+    background-size: cover;
+}
