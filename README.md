@@ -11,3 +11,6 @@ For this application I built this entirely with the following:
 * [JavaScript](https://www.w3schools.com/js/)
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
+
+## Author
+* [Kaitlyn Flynn](https://kaitlynflynn.com/)
